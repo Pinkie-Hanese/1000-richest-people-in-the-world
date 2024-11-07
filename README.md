@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+
 ### Project Overview
 This data analysis project seeks to provide insights on the richest people in the world.It determines and identifies the countries in which most rich people come from as well the countries with the least rich people. It also identifies the industries that produce the highest and lowest number of these rich people. It provides a deeper understanding on where rich people come from and which industries they are in. The project also provides information from the person with the highest networth , to one with the least networth on this list.
 
@@ -41,7 +42,7 @@ The data set for this project is the '1000 richest people in the world' file sou
  - Consider a career in Technology or retail as they prove to be the best performing.
  - To enhance the chancesof becoming rich, explore markets and opportunities in the US and France.
 
-   ### REferences
+### References
   1. [Data camp](https://datacamp.com)
      
  
