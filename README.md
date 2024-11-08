@@ -41,12 +41,17 @@ The data set for this project is the '1000 richest people in the world' file sou
   ### Data analysis
   - Pivot Tables
 
+
   ### Results and Findings
   The analysis findings are summarized below;
   1. The US has the highest number of rich people.
   2. India has the least number of rich people.
   3. The technology industry produces the highest number of rich people.
-  4. The Petrochemicals industry has the least number of rich people.
+  4. The Fashion industry has the least number of rich people.
+
+
+    ![Screenshot (33)](https://github.com/user-attachments/assets/3dca0f9a-3863-486b-bb0a-6d430f014f10)
+ 
 
 
  ### Recommendations
