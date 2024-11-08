@@ -49,8 +49,13 @@ The data set for this project is the '1000 richest people in the world' file sou
   3. The technology industry produces the highest number of rich people.
   4. The Fashion industry has the least number of rich people.
 
+  ---
+
+
 
     ![Screenshot (33)](https://github.com/user-attachments/assets/3dca0f9a-3863-486b-bb0a-6d430f014f10)
+
+  ---
  
 
 
