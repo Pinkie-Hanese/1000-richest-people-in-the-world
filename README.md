@@ -19,7 +19,7 @@ This data analysis project seeks to provide insights on the richest people in th
 
 ### Data Sources
 
-The data set for this project is the '1000 richest people in the world' file sourced from data camp. It contains detailed information about these 1000 richest people in the world.
+The data set for this project is the '1000 richest people in the world' file sourced from Kaggle. It contains detailed information about these 1000 richest people in the world.
 
 ### Tools
 - Microsft Exel -Data cleaning & Analysis [download here](https://microsoft.com) 
